@@ -1,0 +1,68 @@
+ 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+    
+ #index .connexion {
+	color: #265301;
+	color: #FFFFFF;
+ }
+
+
+ a {
+	outline: none;
+	text-decoration: none;
+	padding: 2px 1px 0;
+  }
+  
+  a:link {
+	color: #265301;
+  }
+  
+  
+  a:visited {
+	color: #6ec924;
+  }
+  
+  a:focus {
+	border-bottom: 1px solid;
+	background: #BAE498;
+  }
+  
+  a:hover {
+	border-bottom: 1px solid;     
+	background: #CDFEAA;
+  }
+  
+  a:active {
+	background: #265301;
+	color: #CDFEAA;
+  }
+ 
+ body{ 
+	text-shadow: 5px 2px 5px red;
+	text-align:center; 
+	margin:150px;
+	padding:60px;
+	background:url(s57MeO.jpg);
+	background-size:cover;
+	background-position:center;
+	font-family:sans-serif;
+	color: rgb(239, 232, 241);
+	font-weight:bolder;
+    text-align: center;
+    font-size: 100%;
+
+}
+
+label {
+	display:block
+}
+
+.header{
+
+    text-shadow: 5px 2px 5px red;
+    
+}
+
